@@ -211,7 +211,7 @@ $author = "Abdullah Saleem";
             <h2>5: Ferrari Roma</h2>
             <p>When discussing luxury and performance, Ferrari must always be part of the conversation. One of their newest models, the Ferrari Roma, is as stylish as any car. With its amazing performance, this supercar is ideal for both city driving and high-speed fun. You can always rely on Ferrari for its signature performance and style. Also, the Roma will not disappoint you if you want something with incredible speed and style.</p>
             <div class="image-container">
-                <img src="https://www.fastercars.ae/uploads/1716360243Infiniti%20Qx80%20Maroon.webp" 
+                <img src="https://www.fastercars.ae/uploads/1690475196Ferrari-Roma-Black-front-side.webp" 
                      alt="Ferrari Roma Rental Dubai">
             </div>
         </div>
