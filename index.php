@@ -247,5 +247,4 @@ $author = "Abdullah Saleem";
     </footer>
 </body>
 
-</html>';
-?>
+</html>
